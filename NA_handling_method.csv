@@ -1,0 +1,5 @@
+Description
+dropna 각 레이블의 값에 결측 데이터 여부를 기준으로 축 레이블을 필터링합니다.
+fillna 결측 데이터를 일부 값으로 채웁니다.
+isnull 결측값 여부를 bool 값으로 반환합니다.
+notnull isnull의 부정형입니다.
