@@ -13,6 +13,6 @@
 
 
 # 강의 시작 전 보면 좋을 자료
-[A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
-[Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-[NumPy Data Science Essential Training With Python 3](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIRpnGQGMTvV3AGdDK37d2b)
+- [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
+- [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+- [NumPy Data Science Essential Training With Python 3](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIRpnGQGMTvV3AGdDK37d2b)
