@@ -1,7 +1,7 @@
 # 원티드 프리온보딩 데이터 챌린지 사전과제
 
 - 제공해드리는 Repository를 활용하여, 본인의 github에 Public으로 올려주세요. (주의: Public이 아닐 경우 과제를 확인할 수 없습니다)
-- 제출 레파지토리 명은 wanted-pre-onboarding-challenge-data로 생성해 주세요.
+- 제출 레파지토리 명은 wanted-pre-onboarding-challenge-data로 생성해 주세요.(fork를 활용하셔도 좋습니다!)
 - 해당 과제에 대한 해설은 개강 후 진행될 예정입니다.
 - 과제 제출 링크는 issues에 올려주세요.(제목 양식 : 이름 - 사전 과제 제출)
 <br><br>
