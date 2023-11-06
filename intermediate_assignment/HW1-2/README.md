@@ -5,4 +5,4 @@ matplotlib과 chatGPT를 활용하여 데이터 시각화를 해보았습니다.
 
 # 과제 제출 방식
 
-1-1에 제출한 issue를 edit하여 추가 작성해주시면 되겠습니다.
+1-1에 제출한 discussion을 edit하여 추가 작성해주시면 되겠습니다.
