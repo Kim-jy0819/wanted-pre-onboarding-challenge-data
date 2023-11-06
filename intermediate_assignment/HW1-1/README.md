@@ -40,10 +40,18 @@
 
 <br><br>
  # 과제 제출 방식
-- issue 생성
+- discussion 생성
 - 제목
     - 이름 - 도메인 - 문제 정의 요약 (예시 : 홍길동 - 부동산 - 기획중인 부동산 서비스 수요 조사)
 - 내용 (링크로 대체해도 무방합니다.)
     - 도메인을 선택한 이유
     - 구체적인 문제 정의
     - 데이터 업로드
+ 
+[discussion](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/discussions/categories/2023%EB%85%84-11%EC%9B%94-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80)에서 ```시각화 포트폴리오 > 2023년 11월 프리온보딩 데이터 챌린지``` 카테고리에 형식에 맞춰 글을 생성해 올려주시면 되겠습니다. label 설정으로 부동산, 마케팅 등등의 키워드를 함께 넣어주시면 가독성이 향상됩니다.
+
+![image](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/assets/63527907/c3daac30-3253-4ccc-946e-c803f553fa61)
+
+
+어떻게 해야할지 잘 모르겠다면 데이콘에서 진행했던 시각화 경진대회를 참고해보세요!
+- [부동산 가격변화가 MZ세대에게 미치는 영향](https://dacon.io/competitions/official/235724/codeshare/2733?page=1&dtype=random)
