@@ -48,7 +48,7 @@
     - 구체적인 문제 정의
     - 데이터 업로드
  
-[discussion](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/discussions/categories/2023%EB%85%84-11%EC%9B%94-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80)에서 ```시각화 포트폴리오 > 2023년 11월 프리온보딩 데이터 챌린지``` 카테고리에 형식에 맞춰 글을 생성해 올려주시면 되겠습니다. label 설정으로 부동산, 마케팅 등등의 키워드를 함께 넣어주시면 가독성이 향상됩니다.
+[discussion](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/discussions/categories/2023%EB%85%84-11%EC%9B%94-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80)에서 ```시각화 포트폴리오 > 2023년 11월 프리온보딩 데이터 챌린지``` 카테고리에 형식에 맞춰 글을 생성해 올려주시면 되겠습니다. label 설정으로 부동산, 마케팅 등등의 키워드를 함께 넣어주시면 가독성이 향상됩니다. 다른 분들이 작성한 시각화 작품을 보시고 인상깊다고 느끼는 글에 투표해주세요~
 
 ![image](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/assets/63527907/c3daac30-3253-4ccc-946e-c803f553fa61)
 
