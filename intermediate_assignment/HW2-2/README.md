@@ -5,4 +5,4 @@
 
 # 과제 제출 방식
 
-1-1에 제출한 issue를 edit하여 추가 작성해주시면 되겠습니다.
+1-1에 제출한 [discussion](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/discussions/categories/2023%EB%85%84-11%EC%9B%94-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80) edit하여 추가 작성해주시면 되겠습니다.
