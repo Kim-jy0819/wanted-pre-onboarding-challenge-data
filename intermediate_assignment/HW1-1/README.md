@@ -53,5 +53,5 @@
 ![image](https://github.com/Kim-jy0819/wanted-pre-onboarding-challenge-data/assets/63527907/c3daac30-3253-4ccc-946e-c803f553fa61)
 
 
-어떻게 해야할지 잘 모르겠다면 데이콘에서 진행했던 시각화 경진대회를 참고해보세요!
+잘 모르시겠더라도 괜찮습니다. 어떻게 해야할지 잘 모르겠다면 데이콘에서 진행했던 시각화 경진대회를 참고해보세요! 처음 입문할 때 실력을 가장 빨리 향상시킬 수 있는 방법은 바로 잘하는 사람의 작품을 모방하는 것입니다. 클론 코딩도 강력 추천하는 학습 방법입니다.
 - [부동산 가격변화가 MZ세대에게 미치는 영향](https://dacon.io/competitions/official/235724/codeshare/2733?page=1&dtype=random)
